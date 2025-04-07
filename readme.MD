@@ -3,3 +3,5 @@
 * bombai chutney
 * podi
 * oil
+* masala
+* onion :
